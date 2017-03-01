@@ -86,7 +86,11 @@ soumagne@biemar.be;
 
 ##Plastique
 
-- pragma plexy
+- pragma plexy       
+Av. Paul Gilson, 358
+ 1620 Drogenbos       
+ http://www.pragma-plexi.be/
+
 - plexy reine
 - un truc dans le centre
 - vink
